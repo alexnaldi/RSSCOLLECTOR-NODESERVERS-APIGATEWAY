@@ -2,7 +2,7 @@
   "name": "api-gateway",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "start": "node .",
     "start:prod": "cross-env NODE_ENV=production TYPE_ENV=api PORT=3010 npm start",
